@@ -93,7 +93,7 @@ class linked_list:
 
 my_list = linked_list()
 
-for i in range(10):
+for i in range(11):
 	my_list.append(random.randint(1,10))
 
 print(my_list.display())
